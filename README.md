@@ -84,12 +84,12 @@ Change to - The proposed capstone project's primary goals are to create and deve
 Look for – The proposed project consists of
 Change to - The concept being suggested entails
 
-9
+9.
 Look for - To assess the current and proposed system in terms of
 Change to - To evaluate the proposed system in comparison to the current one in terms of 
 
 
-10 
+10.
 Look for - To Determine if there is a significance between the current and proposed system through comparing the answer of the responded from the prepared questionnaire that is based on the criteria of ISO/IEC 25010
 
 Change to - To compare the responses to the prepared questionnaire, which is based on the requirements of ISO/IEC 25010, in order to ascertain whether there is a significant difference between the present and proposed systems.
@@ -99,11 +99,11 @@ Look for - To design an administration module where the admins can have all the 
 
 Change to - To create an administrative module that gives admins full access to the system, historical data, and analytics so they can see, understand, and work with the crucial data that management cares about most.
 
-12
+12.
 Look for - Specifically, the researcher seeks to answer the following questions:  
 Change to - The researcher wants to provide answers to the following questions in particular:  
 
-13
+13.
 Look for - What are the appropriate features of the software that can be developed to monitor the employee’s utilization performance using employee utilization dashboard?
 Change to - What are the relevant software features that may be created to track an employee's performance in terms of utilization utilizing an employee utilization dashboard?
 
@@ -111,24 +111,24 @@ Change to - What are the relevant software features that may be created to track
 Look for - How do the respondents assess the existing system and proposed system in terms o
 Change to - How do respondents rate the proposed system in comparison to the current system in terms of
 
-15
+15.
 Look for - Is there a significant difference between the existing system and proposed system?
 Change to - Is the proposed system significantly different from the current system?
 
-16
+16.
 Look for - How data visualization can help the employee and managers visualize, understand, and make a data driven decision for resource allocation?
 Change to - How can data visualization assist managers and employees perceive, comprehend, and decide how to allocate resources based on data?
 
 
-17
+17.
 Look for – The Significance of the conducted capstone study can contribute on employee capability enhancement towards employee career path
 Change to - The importance of the completed capstone project will help improve employee potential for career advancement
 
-18
+18.
 Look for - The proposed capstone study shall serve to benefit the following:
 Change to - The following areas that will gain from the proposed capstone study:
 
-19
+19.
 Look for – On the other hand, we are also solving the problem with regards on how to sort and analyze data with the feature of the system data analyzation and visualization.
 Change to - By using the system's data analysis and visualization capability, we are also resolving the issue of how to classify and analyze data.
 
@@ -136,64 +136,64 @@ Change to - By using the system's data analysis and visualization capability, we
 
 
 
-20
+20.
 Look for – The significant of this conducted capstone study can help how private and government sectors like schools, company, and business to save their time and energy managing the challenges they have with their utilization data
 Change to - The significance of this completed capstone project can assist commercial and public sectors including businesses, companies, and schools in saving time and effort controlling problems with their utilization data.
-21
+21.
 Look for – An automated time and labor management system can help every business do this efficiently because it primarily monitors an employee’s start and stop time during their work hours. Also, this system can be used by both full-time as well as hourly employees. There are different types of time and attendance systems, these are manual which uses paper cards that need to be manually time-stamped using a time stamping machine; an automated which uses RFID or radio-frequency identification based on employee ID cards or biometrics to record employee hours when they start and stop work. Lastly, an app-based which uses internet-based geolocation or facial-recognition timekeepers for clock-in and clock-out. This enable employees to clock-in and out using time clocks, mobile phones, and computers with an internet connection.
 Change to –Every organization can accomplish this more effectively with the use of an automated time and labor management system because it basically keeps track of an employee's start and stop times throughout their working hours. Additionally, hourly and full-time employees can both use this method. There are various types of time and attendance systems, including manual ones that require paper cards to be manually time-stamped using a machine and automated ones that use biometrics or RFID (or radio-frequency identification) based on employee ID cards to track employees' start and stop times at work. The last option is an app-based timekeeper that uses internet-based facial recognition or geolocation for clocking in and out. This makes it possible for workers to clock in and out utilizing time clocks, mobile devices, and internet-connected workstations.
 
-22
+22.
 Look for – According to Toms Panders, the co-founder and CEO of Setupad, knowing where his employees are and how they are doing during working hours has always been important to him that’s why he decided to look for time tracking and employee management software. Choosing the right time tracking software is vital for any business for it provides the business with easy summaries of where your team is spending their time and it will also help the business in finding ways to guide scope discussions with clients, improve time estimation on certain types of projects, and boost overall productivity.
 Change to - Toms Panders, the co-founder and CEO of Setupad, claims that he has always valued knowing where his staff are and how they are faring during working hours, which is why he looked for time monitoring and personnel management software. In order to guide scope discussions with clients, improve time estimation on specific types of projects, and increase productivity overall, it is essential for any business to choose the right time tracking software. This software gives businesses quick summaries of where their teams are spending their time.
 
 
-23
+23.
 Look for – The company used a traditional, mechanical punch clock to track employees’ time which requires them to punch a paper timecard at the beginning, end of shift, and during their lunch breaks.
 Change to – Employees had to punch paper timecards at the start of each shift, at the end of it, and during their lunch breaks in order for the corporation to keep track of their time.
 
-24
+24.
 Look for - WaspTime software automatically checks the time clocks and collect ‘punches’ accurately computing hours worked which can be reviewed and edited by the Afton Manufacturing’s owner.
 Change to - WaspTime software automatically audits the time clocks and collects "punches," correctly calculating the number of hours worked, which the owner of Afton Manufacturing can examine and amend.
 
 
-25
+25.
 Look for – Specific risks, particularly in regards to security and privacy, come along with Internet access and the use of some services as they transit through intermediaries, including the workplace. In some instances, it has been demonstrated that intermediaries have been complicit in the surveillance of users, which suggests the need for control measures or guidelines that can be included in the monitoring policy and system. Decisions about the retention, filtering, monitoring, and sharing of information have significant implications for citizens around the world.
 Change to - Access to the Internet and the usage of some services that pass through intermediaries, such as the workplace, come with specific concerns, particularly in terms of security and privacy. It has been shown that intermediaries have been involved in user surveillance in some cases, which highlights the need for control measures or rules that can be built into the policy and system for monitoring. Information retention, filtering, monitoring, and sharing decisions have a big impact on people all over the world.
 
 
 
-26
+26.
 Look for – Filipino-owned businesses are starting to see the value that human resource management can strategically contribute in their quest of organizational success in the face of today's powerfully compelling trends of globalization and fierce competition.
 Change to - In light of today's harsh competition and extremely persuasive trends of globalization, Filipino-owned firms are beginning to recognize the value that human resource management can strategically provide to their quest for organizational success.
 
-27
+27.
 Look for - To improve the overall ability of employee benefits to positively contribute to organizational competitiveness, businesses must continue to adopt more flexible and convenient employee benefits, especially enhancing programs that pertain to offering high package fringe benefits that can be converted to cash and to design an alluring retirement package for its employees. Furthermore, it is advised that Filipino-owned businesses start adopting the practice of feedback in performance evaluations, requiring managers to be evaluated by lower-level employees as well as the inclusion of peers in the performance evaluators, given that performance management and compensation practices are also significant predictors of organizational competitiveness though to a lesser extent.
 Change to - Businesses must continue to adopt more flexible and convenient employee benefits, particularly enhancing programs that pertain to offering high package fringe benefits that can be converted to cash and to design an alluring retirement package for its employees, in order to improve the overall ability of employee benefits to positively contribute to organizational competitiveness. Furthermore, given that performance management and compensation practices are also significant predictors of organizational competitiveness though to a lesser extent, it is advised that Filipino-owned businesses start adopting the practice of feedback in performance evaluations, requiring managers to be evaluated by lower-level employees as well as the inclusion of peers in the performance evaluators.
 
-28
+28.
 Look for – The proper organization of work is a process of identifying the work to be performed, defining responsibility and authority, and also to establish relationships for the purpose of enabling people to work most effectively together to accomplish the objectives. The interdependence of the main production factors which are labor resources, work items, and human work has a conclusive impact on the efficiency and effectiveness of the whole production system. This is mainly important when used in the production of multi-station work, where the human work and workstation must be adapted in a suitable way. (Grzelczak, 2018). According to Klimek and Łebkowski, Proper organization is vital for human work to be effective. It consists in setting the workflow so that maximum results can be obtained with the least amount of work and technical means. Poorly organized work leads to unnecessary consumption of production means and human work.
 
 Change to - In order to enable individuals to collaborate most productively to achieve the goals, the process of defining responsibility and authority, as well as establishing relationships, is known as the right organization of work. The interconnectedness of the three primary production factors—labor resources, work products, and human labor—has a significant impact on the whole production system's efficiency and effectiveness. This is crucial when producing multi-station work since it requires that the human work and workstation be adjusted appropriately. (2018) Grzelczak. Klimek and ebkowski claim that effective human work requires proper structure. It entails adjusting the workflow to get the best results possible with the least amount of effort.
 
-29
+29.
 Look for – The allocation of employees to workplaces is an important optimization issue, which consists in delegating employees to individual positions or tasks, in such a way that the cost of task completion is minimal or the total efficiency of all employees is maximal. The allocation should take into account the employee's characteristics, work efficiency, skills, experience, etc. The criterion for assessing such an assignment is, for example, achieving maximum personnel performance or filling all jobs taking into account the employees' qualifications and skills.
 Change to - An important optimization problem is the assignment of workers to specific positions or tasks so that the cost of task completion is as low as possible or that the combined efficiency of all workers is maximized. The assignment must take into account the employee's traits, productivity at work, talents, experience, etc. Achieving the highest level of employee performance or filling every position while taking into account the employees' credentials and talents are two examples of criteria for evaluating such an assignment.
 
-30
+30.
 Look for - Digitalization receives increased attention since the term “Industry 4.0” was introduced in the year 2011 which described as the vision of a digitalized industry. Thus, it labels the aim of a development which started already years before. Since digitalization in industry affects integrated processes, products, as well as business models, it is labeled as digital transformation. In result, manifold expectations came up simultaneously and led to very different and partially far reaching visions of the further development of production industry and their resulting future. The digitalization’s impact on industry became subject of the national and international scientific discussion. For recognizing development tendencies, obtaining further knowledge on the digitalization’s development and illustrating future expectations on selected studies on the vision of digitalized industry will be analyzed.
 Change to - Since the term "Industry 4.0" was coined in 2011, which articulated the idea of a digitalized industry, digitalization has drawn more attention. Thus, it identifies the purpose of a process that began years before. Digital transformation is the term used to describe how digitalization affects integrated processes, products, and business models in industry. As a result, many expectations surfaced at once, giving rise to quite divergent and occasionally far-reaching ideas of the future of the production industry. The effects of digitalization on industry have been the focus of national and worldwide scientific debate. For the purpose of identifying trends in development, it is necessary to understand how digitization has evolved as well as to illustrate what the future holds for this sector of the economy.
 
 
-31
+31.
 Look for – A thriving organization struggles to find that there is a great degree of assurance, collaboration, employee satisfaction, communication and temptation levels among its staff so that they would be more motivated towards their work responsibilities and accomplishing overall organizational objectives.
 Change to - In order for its employees to be more motivated to carry out their duties and achieve the overall organizational goals, a healthy organization strives to find that there is a high degree of certainty, collaboration, employee happiness, communication, and temptation levels among its workforce.
 
-32 
+32.
 Look for - According to Furnham, Eracleou, and Chamorro-Premuzic (2009), job satisfaction is described as how far the employees are satisfied with their work. This matter often happens in which two concepts are discussed together, since it is said that an individual is contented in the work-place as there is a factor and condition that motivate people. Robbins (2006) disclose that job satisfaction is a common behavior to work performance while there are awards and achievements appropriately. Also, he defined organizational commitment as a stage in which the employee recognizes a certain group with the goals, and hopes to maintain the status. Job satisfaction has a relationship with work performance. An organization with more satisfied employees or workers tends to be more effective and productive.
 Change to - How satisfied employees are with their work, according to Furnham, Eracleou, and Chamorro-Premuzic (2009), is a measure of job satisfaction. Since it is said that a person is content at their place of employment because there are certain conditions and factors that motivate people, this issue frequently involves the discussion of two concepts at the same time. According to Robbins (2006), maintaining workplace pleasure while receiving rewards and recognition for accomplishments is a frequent behavior to work performance. Additionally, he described organizational commitment as the phase in which an employee acknowledges a certain group with the objectives and aspires to uphold the status. Performance in work is correlated with job satisfaction. An organization is more likely to be successful and productive if its staff are happier.
 
-33
+33.
 Look for - Performance is a stage of achievement of accomplishing certain work. It means that work performance is an achievement stage as a work accomplishment by an individual from the organization. It is affected by three main factors which are the organizational support, abilities or management effectiveness, and work performance of every individual working at the organization. Employee will remain if work assigned is justifiable and satisfactory. Over utilizing people won't help them perform better which is why knowing the capacity of your workforce is important and that is where this study is trying to solve.
 Change to - Performance is a stage in the process of completing a task. It implies that a person's job performance is a stage in their career as an organization's employee. The three key aspects that have an impact on it are the organizational support, managerial effectiveness, and the work output of each employee. Employee will continue working if the tasks given are acceptable and justified. Knowing the capacity of your workforce is crucial since it will prevent you from overworking your employees, which is the problem that this study is attempting to address.
 
@@ -229,38 +229,4 @@ Change to - The responders will fill up MS forms for the planned capstone projec
 40.
 Look for – After the visitation and discussion with the Digital marketing team, which is the beneficiary of the capstone project, we discussed that for the data analysis with the data visualization feature of the system, we are going to analyze all the data that has been processed and input to the system and transform all data into graphical representation using interactive visualization tools as a feature of the entire system.
 Change to - After visiting and speaking with the Digital Marketing team, who will benefit from the capstone project, we decided that we would analyze all of the data that had been processed and input into the system and turn it into a graphical representation using interactive visualization tools as a feature of the entire system.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
