@@ -1,3 +1,24 @@
+What are the core business functions?
+Sub functions?
+
+What are the global efficiency program drive for the fiscal year/calendar year?
+
+What are the enterprise technology/software that is available for all employee?
+Any specific licensed softwares like Office 365?
+Power Suites?
+Power BI?
+Power Apps?
+Power Automate?
+
+
+
+
+
+
+
+
+
+
 # Test-MIT
 
 
